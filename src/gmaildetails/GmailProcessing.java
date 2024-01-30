@@ -10,7 +10,7 @@ public class GmailProcessing {
         if (userName.equals(gmailLogin.userName)&&password.equals(gmailLogin.password)) {
              ta.inbox=gmailLogin.message;
             System.out.println(ta.inbox);
-        }
+         }
         else
         {
             System.out.println("invalid");

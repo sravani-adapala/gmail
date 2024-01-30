@@ -7,7 +7,5 @@ public class GmailClient {
         gp.Login();
 
 
-
-
     }
 }
